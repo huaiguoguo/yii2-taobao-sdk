@@ -2,10 +2,12 @@
     "name": "huaiguoguo/yii2-taobao-sdk",
     "description": "taobao-sdk-PHP-auto_1457166217151-20170221",
     "keywords": ["taobao", "api", "top", "sdk"],
-    "authors": [{
-        "name": "huochai",
-        "email": "gufe198@163.com"
-    }],
+    "authors": [
+        {
+            "name": "phpdx.cn",
+            "email": "gufe198@163.com"
+        }
+    ],
     "type": "library",
     "license": "MIT",
     "require": {
@@ -13,6 +15,8 @@
         "ext-curl": "*"
     },
     "autoload": {
-        "files": ["TopSdk.php"]
+        "files": [
+            "TopSdk.php"
+        ]
     }
 }
