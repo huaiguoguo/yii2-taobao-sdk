@@ -8,7 +8,7 @@
             "email": "gufe198@163.com"
         }
     ],
-    "type": "library",
+    "type": "yii2-extension",
     "license": "MIT",
     "require": {
         "php": ">= 5.4.0",
@@ -16,6 +16,5 @@
     },
     "autoload": {
         "files": [ "TopSdk.php" ]
-    },
-    "minimum-stability": "stable"
+    }
 }
