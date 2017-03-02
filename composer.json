@@ -17,5 +17,5 @@
     "autoload": {
         "files": [ "TopSdk.php" ]
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
