@@ -17,11 +17,5 @@
     "autoload": {
         "files": [ "TopSdk.php" ]
     },
-    "minimum-stability": "stable",
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
-    }
+    "minimum-stability": "stable"
 }
