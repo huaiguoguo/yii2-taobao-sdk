@@ -1,4 +1,5 @@
 <?php
+namespace yii\taobao\top\security;
 /**
 * 缓存接口，如果不想使用yac缓存，需要自己去使用这个接口
 */

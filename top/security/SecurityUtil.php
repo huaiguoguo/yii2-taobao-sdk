@@ -1,5 +1,5 @@
 <?php
-
+namespace yii\taobao\top\security;
 	include './SecretContext.php';
 	include './MagicCrypt.php';
 

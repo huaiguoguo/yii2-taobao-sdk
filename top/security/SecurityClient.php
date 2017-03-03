@@ -1,8 +1,8 @@
 <?php
-
-	include './SecurityUtil.php';
-	include './SecretGetRequest.php';
-	include './iCache.php';
+namespace yii\taobao\top\security;
+//	include './SecurityUtil.php';
+//	include './SecretGetRequest.php';
+//	include './iCache.php';
 	include '../../TopSdk.php';
 
 	class SecurityClient

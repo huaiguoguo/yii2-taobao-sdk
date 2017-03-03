@@ -1,5 +1,5 @@
 <?php
-
+namespace yii\taobao\top\security;
 class TopSecretGetRequest
 {
 	private $apiParas = array();

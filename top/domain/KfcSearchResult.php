@@ -1,5 +1,5 @@
 <?php
-
+namespace yii\taobao\top\domain;
 /**
  * KFC 关键词过滤匹配结果
  * @author auto create

@@ -1,4 +1,5 @@
 <?php
+namespace yii\taobao\top\request;
 /**
  * TOP API: taobao.appip.get request
  * 

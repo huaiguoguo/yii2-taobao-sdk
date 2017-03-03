@@ -1,4 +1,5 @@
 <?php
+namespace yii\taobao\top;
 /**
  * 返回的默认类
  * 

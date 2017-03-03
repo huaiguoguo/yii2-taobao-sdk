@@ -1,4 +1,5 @@
 <?php
+namespace yii\taobao\top\security;
 	class SecretContext
 	{
 		var $secret;

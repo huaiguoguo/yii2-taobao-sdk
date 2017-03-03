@@ -1,7 +1,7 @@
 <?php
-
-	include './SecurityClient.php';
-	include './YacCache.php';
+namespace yii\taobao\top\security;
+//	include './SecurityClient.php';
+//	include './YacCache.php';
 
 
 	$c = new TopClient;

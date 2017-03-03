@@ -1,5 +1,5 @@
 <?php
-
+namespace yii\taobao\top\domain;
 /**
  * 批量异步任务的子任务结果
  * @author auto create

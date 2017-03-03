@@ -1,5 +1,5 @@
 <?php
-
+namespace yii\taobao\top\domain;
 /**
  * 淘宝客选品库
  * @author auto create

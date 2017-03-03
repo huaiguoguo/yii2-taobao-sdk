@@ -1,5 +1,5 @@
 <?php
-
+namespace yii\taobao\top\domain;
 /**
  * 请求列表，内部包含多个url
  * @author auto create

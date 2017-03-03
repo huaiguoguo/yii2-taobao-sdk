@@ -1,5 +1,5 @@
 <?php
-
+namespace yii\taobao\top;
 class HttpdnsGetRequest
 {
 	private $apiParas = array();

@@ -1,4 +1,7 @@
 <?php
+namespace yii\taobao\top\request;
+
+use yii\taobao\top\RequestCheckUtil;
 /**
  * TOP API: taobao.areas.get request
  * 

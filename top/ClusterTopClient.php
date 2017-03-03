@@ -1,4 +1,5 @@
 <?php
+namespace yii\taobao\top;
 class ClusterTopClient extends TopClient {
 
 	private static $dnsconfig;

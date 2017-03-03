@@ -1,5 +1,5 @@
 <?php
-
+namespace yii\taobao\top\domain;
 /**
  * 地址区域结构
  * @author auto create

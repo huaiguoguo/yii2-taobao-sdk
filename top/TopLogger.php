@@ -1,4 +1,5 @@
 <?php
+namespace yii\taobao\top;
 class TopLogger
 {
 	public $conf = array(

@@ -1,5 +1,5 @@
 <?php
-
+namespace yii\taobao\top\domain;
 /**
  * 淘客定向招商活动基本信息
  * @author auto create
