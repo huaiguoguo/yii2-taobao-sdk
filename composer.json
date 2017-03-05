@@ -16,6 +16,7 @@
         "ext-curl": "*"
     },
     "autoload": {
+    	"file":["TopSdk.php"],
         "psr-4": { "yii\\taobao\\": "" }
     },
     "minimum-stability": "dev"
