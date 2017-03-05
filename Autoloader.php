@@ -68,5 +68,5 @@ class Autoloader{
     }
 }
 
-spl_autoload_register('yii\taobao\Autoloader::autoload');
+
 ?>
