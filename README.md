@@ -27,4 +27,4 @@
 
 ####Yii2更多学习请加群: [70324424](https://jq.qq.com/?_wv=1027&k=45gpuJu)
 
-####Yii2社区: [点此](http://www.phpdx.cn)
+####Yii2社区: [http://www.phpdx.cn](http://www.phpdx.cn)
